@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PokeAgenda</string>
+    <string name="nome">Nome:</string>
+    <string name="peso">Peso:</string>
+    <string name="lb">Lb</string>
+    <string name="altura">Altura:</string>
+    <string name="ft">ft</string>
+</resources>
